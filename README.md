@@ -44,7 +44,7 @@ This protocol takes neoRNA sequences as input and queries them against a ribo-se
 
 ### Visual Representation of the Protocol
 
-![Protocol Schema](./plots.png)
+![Protocol Schema](./protocole.png)
 
 ## Inputs
 
@@ -82,7 +82,7 @@ The output consists of multiple files and plots summarizing the analysis. The ma
 
 The protocol generates plots showing the periodicity and dominant frames for each contig, helping to visualize the translation activity and frame dominance.
 
-![Plots](./protocole.png)
+![Plots](./plots.png)
 
 ## Scripts
 
