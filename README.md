@@ -44,7 +44,7 @@ This protocol takes neoRNA sequences as input and queries them against a ribo-se
 
 ### Visual Representation of the Protocol
 
-![Protocol Schema](path/to/schema/image.png)
+![Protocol Schema](/home/safa/Tools/kmerBasedFramePedictor/protocole.png)
 
 ## Inputs
 
